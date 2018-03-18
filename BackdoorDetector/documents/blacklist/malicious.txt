@@ -1,0 +1,61 @@
+using _MSTSCLib
+using System.Diagnostics
+using System.Net.Sockets
+using System.Net
+new Socket
+RDPSession
+mstsc.exe
+RDPPort
+Password
+System.Diagnostics.Process.Start
+OpenMicrosoftWord
+TcpListener
+/bin/sh
+/bin/bash
+AcceptTcpClient
+cmd.exe
+serverListener.StartInfo
+serverListener.Start()
+new Process
+ncat.exe
+ProcessWindowStyle.Hidden
+listenPort
+listener.Receive
+new UdpClient
+new IPEndPoint
+NetworkStream
+Connector.Connect
+Connector.GetStream
+tcpClient.Connect
+tcpClient.GetStream
+DEFAULT_NAME
+DEFAULT_PASS
+DEFAULT_PORT
+new WebClient()
+System.Net.WebClient()
+DownloadFile
+\x
+0x
+System.Convert.ToBase64String
+System.Text.Encoding.UTF8.GetBytes
+System.Convert.FromBase64String
+new RemoteExecuteServer()
+RemotingConfiguration
+new SerialPort()
+new Telnet
+lpThreadAttributes
+dwStackSize
+lpStartAddress
+kernel32
+kernel64
+byte[]
+null
+SendCommand(
+StartShell()
+new ProcessStartInfo
+CreateNoWindow
+SendArp
+ConvertIPToInt32
+IPAddress.Parse
+GetStream()
+UseShellExecute

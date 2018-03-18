@@ -1,0 +1,11 @@
+Local .NET file,Form1.Designer.cs, is scanned through static code analysis.
+2 malicious backdoor activity is found in the source code. These are listed below:
+   Line #8.   privateSystem.ComponentModel.IContainercomponents=null;
+   Line #16.   if(disposing&&(components!=null))
+
+
+
+=========================================
+Execution Date: 1/19/2018 12:00:00 AM
+Time taken: {7.3885} ms
+Total number of lines: 143
